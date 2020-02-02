@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project Attributes</string>
+    <string name="view_name">Welcome to Android</string>
+    <string name="btn_name">Change View</string>
+</resources>
